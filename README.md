@@ -17,7 +17,7 @@
 
 - **Inicio** 
     **Header**
-        - No tiene fondo blaco con el hover por placer visual y guso personal.
+        - No tiene fondo blanco con el hover por placer visual y guso personal.
 - Bordes redondeados para mayor elegancia.
 
 - **Tienda**
@@ -34,5 +34,5 @@
 - HTML5
 - CSS3 (Flexbox + Grid + Custom Properties)
 - Font Awesome
-- Hospedaje: **GitHub Pages** / **Netlify** / **Vercel** / **Cloudflare Pages**
+- Hospedaje: **GitHub Pages** 
 
